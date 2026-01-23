@@ -1,0 +1,14 @@
+# Ignore large generated files
+pivot_table.pkl
+similarity_df.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Virtual env
+venv/
+.env
