@@ -695,4 +695,18 @@ with st.sidebar:
     st.markdown("• Lower Recency = More recent purchase")
     st.markdown("• Higher Frequency = More purchases")
     st.markdown("• Higher Monetary = More spending")
+
+    st.markdown("""
+    **⚠️ Dataset Notice**
+
+    This application is built for a **specific dataset only**.
+
+    Try these exact product names:
+    - WHITE HANGING HEART T-LIGHT HOLDER  
+    - CREAM CUPID HEARTS COAT HANGER  
+    - SET 7 BABUSHKA NESTING BOXES  
+
+    (Spelling & casing matter)
+    """)
+
     st.markdown("</div>", unsafe_allow_html=True)
